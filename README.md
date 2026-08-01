@@ -74,30 +74,29 @@ Current version: **v3 (Under Repair / Debugging)**
 
 ---
 
-# 📷 Project Gallery
+## 📷 Project Gallery
 
-## Front View
+### Front View
 
-![Front View](front%20view.jpg)
-
----
-
-## Side View
-
-![Side View](side%20view.jpg)
+![Front View](front-view.jpg)
 
 ---
 
-## Internal Wiring
+### Side View
 
-![Internal Wiring](internal%20view.jpg)
+![Side View](side-view.jpg)
 
 ---
 
-## PAM8403 Amplifier
+### Internal Wiring
 
-![PAM8403](pam%20amp%20chip.jpg)
+![Internal Wiring](internal-view.jpg)
 
+---
+
+### PAM8403 Amplifier
+
+![PAM8403](pam-amp-chip.jpg)
 ---
 
 # 💡 Lessons Learned
